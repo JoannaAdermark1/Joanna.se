@@ -279,17 +279,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
- .beautiful {
-	width: inherit;
-	display: block;
-	height: inherit;
-	margin-top: -2.435em;
-	background-color: #fff;
-	background-size: cover;
-	background-position-x: center;
-	margin-left: -2.2em;
-	background-image: url(/images/beautiful.png);
-}
+
 	code {
 		background: rgba(255, 255, 255, 0.05);
 		border-radius: 0.25em;
