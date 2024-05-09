@@ -3422,7 +3422,7 @@ input, select, textarea {
 						}
 
 						#header > nav > ul > li a.active {
-							color: #ffffff;
+							color: #ccf381;
 						}
 
 		@media screen and (max-width: 736px) {
@@ -3781,7 +3781,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a.active {
-				color: #ffffff;
+				color: #ccf381;
 			}
 
 				#sidebar nav a.active:after {
