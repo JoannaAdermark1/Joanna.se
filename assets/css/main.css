@@ -3014,6 +3014,7 @@ input, select, textarea {
 			.spotlights > section > .image img {
 				border-radius: 0;
 				display: block;
+		
 			}
 
 			.spotlights > section > .image:before {
